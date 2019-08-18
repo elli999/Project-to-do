@@ -1,6 +1,5 @@
-# VimAdventuresLike
+# Project to-do
 
-Project to-do:
 
 https://vim-adventures.com/
 
