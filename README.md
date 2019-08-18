@@ -1,2 +1,5 @@
 # VimAdventuresLike
-Develop a https://vim-adventures.com/ like project.
+
+Project to-do:
+https://vim-adventures.com/
+https://flukeout.github.io/#
